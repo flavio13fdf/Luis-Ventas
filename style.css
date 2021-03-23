@@ -87,10 +87,10 @@ p {
   background: #413553c4;
   text-align: center;
   padding: 24px 0;
- image-rendering: auto;
+ image-rendering: left;
 }
 
-.footer p {
+
   
 /* Cards media queries */
 
