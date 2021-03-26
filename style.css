@@ -9,7 +9,7 @@ body {
 h1, h2, h3 {
   color: #404042;
   font-family: Chivo;
-  text-align: center;
+  text-align:center;
 }
 
 p {
@@ -19,7 +19,7 @@ p {
 
 .container {
   width: 900px;
-  margin: 100px;
+  margin: 70px;
 }
 
 .banner {
@@ -55,7 +55,7 @@ p {
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 16px;
+  grid-gap: 10px;
 }
 
 .card-white {
@@ -63,7 +63,7 @@ p {
   box-shadow: 0 0 16px rgba(0,0,0,0.1);
   border-radius: 4px;
   width: 200px;
-  text-align: center;
+  text-align:left;
   padding: 24px;
   margin: 8px;
 }
