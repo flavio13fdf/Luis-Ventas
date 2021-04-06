@@ -4,6 +4,7 @@
 body {
   font-family: Overpass;
   margin: 0;
+  background-color: rgb(204, 231, 85);
 }
 
 h1, h2, h3 {
@@ -18,8 +19,8 @@ p {
 }
 
 .container {
-  width: 900px;
-  margin: 70px;
+  width: 600px;
+  margin:5px;
 }
 
 .banner {
@@ -62,14 +63,14 @@ p {
   background: rgb(212, 90, 90);
   box-shadow: 0 0 16px rgba(0,0,0,0.1);
   border-radius: 4px;
-  width: 200px;
+  width: 250px;
   text-align:left;
   padding: 24px;
   margin: 8px;
 }
 
 .card-white img {
-  width: 180px;
+  width: 250px;
   height: 180px;
   object-fit: cover;
   border-radius: 4px;
